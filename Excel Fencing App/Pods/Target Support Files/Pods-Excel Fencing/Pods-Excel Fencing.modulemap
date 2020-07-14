@@ -1,0 +1,6 @@
+framework module Pods_Excel_Fencing {
+  umbrella header "Pods-Excel Fencing-umbrella.h"
+
+  export *
+  module * { export * }
+}
